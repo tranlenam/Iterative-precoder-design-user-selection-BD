@@ -1,0 +1,22 @@
+metadata_version: 1
+name: Iterative Precoder Design and User Scheduling for Block-Diagonalized Systems
+description: |-
+  Simulation code for the following paper:
+  Le-Nam Tran, Mats Bengtsson, and Björn Ottersten, "Iterative Precoder Design and User Scheduling for Block-Diagonalized Systems," IEEE Trans. Signal Process., vol. 60, no.7, Jul. 2012.
+tags:
+- block diagonalization
+- precoder design
+- user scheduling
+authors:
+- name: Le-Nam Tran
+  affiliations:
+  - name: KTH Royal Institute of Technology
+- name: Mats Bengtsson
+  affiliations:
+  - name: KTH Royal Institute of Technology
+- name: Björn Ottersten
+  affiliations:
+  - name: University of Luxembourg
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
